@@ -1,0 +1,9 @@
+E:\SUBIR\ProductEntryApp\ProductEntryApp\bin\Debug\ProductEntryApp.exe.config
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.csprojResolveAssemblyReference.cache
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.UI.ProductEntryUI.resources
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.Properties.Resources.resources
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.csproj.GenerateResource.Cache
+E:\SUBIR\ProductEntryApp\ProductEntryApp\bin\Debug\ProductEntryApp.exe
+E:\SUBIR\ProductEntryApp\ProductEntryApp\bin\Debug\ProductEntryApp.pdb
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.exe
+E:\SUBIR\ProductEntryApp\ProductEntryApp\obj\Debug\ProductEntryApp.pdb
